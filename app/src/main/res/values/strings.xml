@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SharedInstance</string>
+    <string name="LastName">LastName</string>
+</resources>
